@@ -1,5 +1,5 @@
 # Trainpro Trainy Bausteine
-##Junioren
+## Junioren
 ### 1 Einstieg 
 
 Der Chatbot Trainy begrüsst den Benutzer.
