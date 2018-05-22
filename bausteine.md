@@ -18,11 +18,11 @@ Der Benutzer fragt, wann das Trining stattfindet.
 
 ### 1.2 Fussballspiel
 Der Bot fragt den Benutzer, ob er am Samstag kommen kann.
-> Hallo David das nächste Spiel findet am Samstag in Eschenbach statt. Das Spiel beginnt um 13.00 Uhr. Besammlung ist voraussichtlich um 11.45 in Uznach beim Fussballplatz.
+> Hallo \<name\> das nächste Spiel findet am Samstag in Eschenbach statt. Das Spiel beginnt um 13.00 Uhr. Besammlung ist voraussichtlich um 11.45 in Uznach beim Fussballplatz.
 
 ### 1.3 Aushilfe
 Der Bot fragt den Benutzer, ob er aushelfen kann.
-> Hallo David die Mannschaft DB braucht deine Hilfe. Sie haben am Samstag 23.Mai 2018 ein Spiel in Eschenbach. Die Besammlung ist um 13.15 Uhr beim Fussballplatz Uznach und das Spiel anschliessend in Eschenbach.
+> Hallo \<name\> die Mannschaft DB braucht deine Hilfe. Sie haben am Samstag 23.Mai 2018 ein Spiel in Eschenbach. Die Besammlung ist um 13.15 Uhr beim Fussballplatz Uznach und das Spiel anschliessend in Eschenbach.
 
 > Kannst du Ihnen aushelfen?
 
