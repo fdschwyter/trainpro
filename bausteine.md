@@ -1,5 +1,6 @@
 # Trainpro Trainy Bausteine
-## 1 Einstieg
+##Junioren
+### 1 Einstieg 
 
 Der Chatbot Trainy begrüsst den Benutzer.
 
@@ -9,17 +10,17 @@ Der Chatbot Trainy begrüsst den Benutzer.
 
 > Du kannst mich zum Beispiel Fragen, wann das nächste Spiel stattfindet.
 
-## 2 Ferien
+### 2 Ferien 
 
 > Hallo \<name\> das Training findet in den Ferien immer statt. Das nächste Training findet am Donnerstag um 17.45 statt.
 
 > Dein Trainer freut sich mit Dir zu trainieren.
 
-## 3 Fussballspiel
+### 3 Fussballspiel
 
 > Hallo David das nächste Spiel findet am Samstag in Eschenbach statt. Das Spiel beginnt um 13.00 Uhr. Besammlung ist voraussichtlich um 11.45 in Uznach beim Fussballplatz.
 
-## 4 Aushilfe
+### 4 Aushilfe
 
 > Hallo David die Mannschaft DB braucht deine Hilfe. Sie haben am Samstag 23.Mai 2018 ein Spiel in Eschenbach. Die Besammlung ist um 13.15 Uhr beim Fussballplatz Uznach und das Spiel anschliessend in Eschenbach.
 
@@ -27,15 +28,15 @@ Der Chatbot Trainy begrüsst den Benutzer.
 
 > Beantworte die Frage mit Ja oder Nein.
 
-### 4.1 Antwort auf Ja
+#### 4.1 Antwort auf Ja
 
 > Cool, dass du der Mannschaft DB aushelfen kannst.
 
-### 4.2 Antwort auf Nein
+#### 4.2 Antwort auf Nein
 
 > Schade und danke für deine Antwort.
 
-## 5 Fehlermeldungen
+### 5 Fehlermeldungen
 Falls der Chat
 > Tut mir Leid, ich habe deine Frage leider nicht verstanden. Soll ich die Frage deinem Trainer weiterleiten? 
 
