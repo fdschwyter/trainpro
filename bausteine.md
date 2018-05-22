@@ -17,7 +17,7 @@ Der Benutzer fragt, wann das Trining stattfindet.
 > Dein Trainer freut sich mit Dir zu trainieren.
 
 ### 1.2 Fussballspiel
-Der Bot fragt den Benutzer, ob er am Samstag kommen kann.
+Der Benutzer fragt den Bot, wann das nächste Spiel ist.
 > Hallo \<name\> das nächste Spiel findet am Samstag in Eschenbach statt. Das Spiel beginnt um 13.00 Uhr. Besammlung ist voraussichtlich um 11.45 in Uznach beim Fussballplatz.
 
 ### 1.3 Aushilfe
@@ -46,9 +46,11 @@ Der Bot fragt den Benutzer, ob er aushelfen kann.
 
 > Du kannst mich zum Beispiel Fragen, wann das nächste Spiel stattfindet.
 
+### 2.2 Training 
+
 
 ### 5 Fehlermeldungen
-Falls der Chat
+Falls der Chat eine unerwartete Frage gestellt bekommt, wird die Frage dem Trainer weitergeleitet.
 > Tut mir Leid, ich habe deine Frage leider nicht verstanden. Soll ich die Frage deinem Trainer weiterleiten? 
 
 > Ich kann deine Frage leider nicht beantworten.
