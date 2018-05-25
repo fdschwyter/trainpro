@@ -4,6 +4,7 @@
 Der Chatbot Trainy begrüsst den Benutzer.
 > Hallo \<name\> ich bin Trainy, der intelligente Chatbot deiner Trainer Fabian Schwyter und Stefan Diegas.
 > Du kannst mir direkt Fragen stellen. Ich werde dann versuchen deine Frage zu beantworten. Wenn ich die Antwort nicht kenne, werde ich die Frage deinem Trainer weiterleiten.
+
 > Du kannst mich zum Beispiel Fragen, wann das nächste Spiel stattfindet.
 ### 1.1 Ferien 
 Der Benutzer fragt, wann das Trining stattfindet.
