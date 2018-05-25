@@ -58,19 +58,18 @@ Eine andere Mannschaft benötigt die Aushilfe des Juniors, die Eltern werden nac
 > Schade und danke für deine Antwort.
 ## 3 Fehlermeldungen
 Falls der Chat eine unerwartete Frage gestellt bekommt, wird die Frage dem Trainer weitergeleitet.
-> Tut mir Leid, ich habe deine Frage leider nicht verstanden. Soll ich die Frage deinem Trainer weiterleiten? 
+> Tut mir Leid, ich habe deine Frage leider nicht verstanden. Es kann sein, dass ich Rechtschreibefehler nicht richtig erkenne, ich kann aber die Frage dem Trainer weiterleiten. Soll ich sie weiterleiten? 
 
+Der Chatbot versteht die Frage, kann sie aber nicht beantworten.
 > Ich kann deine Frage leider nicht beantworten.
 
+Der Benutzer antwortet mit Volltext auf eine geschlossene Frage.
 > Beantworte die Frage mit Ja oder Nein.
 
+Der Chatbot versteht die Frage, kann sie aber nicht beantworten.
 > Ich habe Leider deine Frage nicht verstanden.
+
 
 >Tut mir Leid, ich verstehe keine Sprachnachrichten.
 
 >Mein Name ist Trainy, ich bin der kleine hilfreiche Assistent deines Trainers.
-
-
-
-
-
