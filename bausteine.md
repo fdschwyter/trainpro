@@ -49,7 +49,7 @@ Der Chatbot fragt den Elternteil des Kindes, ob das Kind am nächstem Spiel teil
 Eine andere Mannschaft benötigt die Aushilfe des Juniors, die Eltern werden nachgefragt.
 > Hallo \<name\> die Mannschaft DB braucht die Hilfe deines Sohnes. Sie haben am Samstag 23.Mai 2018 ein Spiel in Eschenbach. Die Besammlung ist um 13.15 Uhr beim Fussballplatz Uznach und das Spiel anschliessend in Eschenbach.
 
-> Ist ihr Sohn da und kann dem Team DB aushelfen?
+> Ist dein Sohn da und kann dem Team DB aushelfen?
 
 > Beantworte die Frage mit Ja oder Nein.
 #### 2.5.1 Antwort auf Ja
